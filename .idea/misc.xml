@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/drawable-v24/button_bulet.xml" value="0.121" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/drawable/button_bulet.xml" value="0.1345" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/drawable/ic_arrow_back_black_30dp.xml" value="0.1345" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_abgactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_admperpajakan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_agbpactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_budidayaperikanan.xml" value="0.13119533527696792" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_change_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_ekbis.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_grid_item.xml" value="0.264" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_hortikultura.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_kebun.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_kopi.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_mekanisasi_pertanian.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_miactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_pajak.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_pangan.xml" value="0.176" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_patiseri.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_pengelolaan_agribisnis.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_perbenihan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_perhotelan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_perikanantangkap.xml" value="0.13119533527696792" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_pmip.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_produkagroindustri.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_produksi_tpactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_produksiternak.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_profile.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_ptp.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_pwactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_sumberdayalahandanlingkungan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_teknologi_pangan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_teknologirekayasakimiaindustri.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_tektan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_ternak.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_tpikan.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_tpternak.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_tpthactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_triactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/activity_trkjjactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/grid_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/header_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/ptp.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/WonderfullPolinela/app/src/main/res/layout/row_item.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

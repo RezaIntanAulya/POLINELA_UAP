@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Politeknik Negeri Lampung</string>
+    <string name="descpolinela1">Dalam rangka memenuhi kebutuhan tenaga terampil dan profesional di bidang pertanian, Pemerintah Indonesia membuka sistem pendidikan baru yang berbentuk Politeknik Pertanian. Politeknik Pertanian Negeri di Propinsi Lampung ini resmi terbentuk dengan diterbitkannya SK. Dirjen Dikti Depdikbud No.14/Dikti/Kep/1984, tanggal 7 April 1984 tentang Pembentukan Politeknik Pertanian Universitas Lampung. Kemudian dalam rangka mempersiapkan pengembangan Politeknik Pertanian, yang meliputi pengembangan fisik kampus, tenaga pengajar, dan pengembangan kurikulum, maka pada tanggal 3 Desember 1985, melalui SK. Dirjen Dikti Depdikbud No.79/Dikti/Kep/1985, dibentuk Penanggung Jawab Unit Pelaksana Proyek pada Proyek Pengembangan Pendidikan Politeknik Pertanian Universitas Lampung.</string>
+    <string name="descpolinela2">Pada tanggal 3 Nopember 1988 Politeknik Pertanian Universitas Lampung menempati kampus baru di Jalan Soekarno-Hatta, Rajabasa, Bandar Lampung, dan pada tanggal 15 Desember 1988 Penanggungjawab Pengembangan Politeknik Pertanian Negeri Lampung dilantik oleh Rektor Universitas Lampung. Pada tanggal 7 April 2001, berdasarkan SK. Mendiknas RI No. 036/O/2001 tentang Pendirian Politeknik Pertanian Negeri Bandar Lampung, Politeknik Pertanian Negeri Lampung resmi mandiri menjadi salah satu bentuk Perguruan Tinggi Negeri (PTN) di Propinsi Lampung dengan nama Politeknik Pertanian Negeri Bandar Lampung.</string>
+    <string name="descpolinela3">Berdasarkan rapat Senat Politeknik tanggal 19 Oktober 2002 telah ditetapkan perubahan nama Politeknik menjadi Politeknik Negeri Lampung. Pertimbangan perubahan nama tersebut merupakan rencana pengembangan Politeknik di masa mendatang agar memperluas bidang studi yang dapat dilaksanakan dan dibutuhkan masyarakat, misalnya bidang studi ekonomi secara umum, keteknikan, manajemen dan sebagainya.</string>
+    <string name="pangan">Budidaya Tanaman Pangan</string>
+    <string name="kebun">Budidaya Tanaman Perkebunan</string>
+    <string name="tani">Teknologi Pertanian</string>
+    <string name="ekbis">Ekonomi dan Bisnis</string>
+    <string name="ternak">Peternakan</string>
+    <string name="jurusan">JURUSAN</string>
+    <string name="daftar">Daftar Jurusan Politeknik Negeri Lampung</string>
+    //Budidaya Tanaman Pangan//
+    <string name="desPangan">Budidaya Tanaman Pangan adalah jurusan yang menyelenggarakan pendidikan vokasi, penelitian dan pengabdian masyarakat di bidang budidaya tanaman pangan.</string>
+    <string name="visi_pangan">"Penghasil tenaga ahli profesional terampil dan inovatif dalam menunjang peningkatan produksi pangan, pembenihan tanaman dan agribisnis hortikultura melalui pengajaran yang berkualitas, penelitian terapan serta pengabdian masyarakat"</string>
+    <string name="misi_pangan1">1.Komitmen pada pendidikan dan pengajaran berkualitas untuk menghasilkan lulusan terbaik yang dapat mendukung upaya peningkatan produksi pangan dan benih nasional serta mampu mengembangkan bisnis hortikultura dan teknologi kultur jaringan.</string>
+    <string name="misi_pangan2">2.Mengimplementasikan penelitian terapan dan pengabdian kepada masyarakat dalam bidang teknologi produksi tanaman pangan, benih serta produksi tanaman hortikultura dan kultur jaringan guna mendukung pencapaian ketahanan pangan nasional.</string>
+    //Budidaya Tanaman Perkebunan//
+    <string name="desKebun">Jurusan Budidaya Tanaman Perkebunan adalah jurusan yang menyelenggarakan pendidikan vokasi, penelitian dan pengabdian masyarakat di bidang industri perkebunan</string>
+    <string name="visi_kebun">"Menjadi jurusan yang bermutu, inovatif dan unggul dalam ilmu pengetahuan dan teknologi terapan di bidang perkebunan yang dapat bersaing di era industri 4.0"</string>
+    <string name="misi_kebun1">1. Menyelenggarakan pendidikan yang berorientasi pada akhlak mulia disiplin, terampil dan mandiri</string>
+    <string name="misi_kebun2">2. Melaksanakan kegiatan keilmuan dan penelitian terapan sebagai penunjang pendidikan dan pengajaran dibidang perkebunan</string>
+    <string name="misi_kebun3">3. Melaksanakan kegiatan pengabdian kepada masyarakat melalui kolaborasi dengan masyarakat dalam membagikan ilmu terapan berbasis perkebunan</string>
+    <string name="misi_kebun4">4. Menguatkan budaya organisasi yang berkarakter, beretika dan professional</string>
+    <string name="misi_kebun5">5. Melaksanakan kerjasama secara berkesinambungan dengan mitra dunia usaha dan industri khususnya dibidang perkebunan</string>
+    //Pertanian//
+    <string name="desTani">Teknologi Pertanian adalah jurusan yang menyelenggarakan pendidikan vokasi, penelitian dan pengabdian masyarakat di bidang teknologi pertanian dan teknologi rekayasa.</string>
+    <string name="visi_tani">Menjadi Jurusan Teknologi Pertanian Yang Bermutu, Unggul dan Inovatif Pada Bidang Teknologi dan Rekayasa Pertanian.</string>
+    <string name="misi_tani1">1. Menyelenggarakan Pendidikan Tinggi Vokasi yang berorientasi pada ahklak mulia, terampil, disiplin, mandiri, dan kompetitif.</string>
+    <string name="misi_tani2">2. Melaksanakan penelitian terapan untuk menopang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misi_tani3">3. Meningkatkan pengabdian kepada masyarakat atas dasar tanggung jawab sosial demi kepentingan masyarakat.</string>
+    <string name="misi_tani4">4. Menguatkan budaya akademik, organisasi kerja yang berkarakter dan beretika.</string>
+    <string name="misi_tani5">5. Mengembangkan organisasi yang sehat dengan manajemen yang  transparan.</string>
+    //Peternakan//
+    <string name="desTernak">Jurusan Peternakan adalah jurusan yang menyelenggarakan pendidikan vokasi, penelitian dan pengabdian pada masyarakat di bidang peternakan dan perikanan.</string>
+    <string name="visi_ternak">Menjadi pusat pendidikan tenaga profesional dalam pengembangan teknologi peternakan menuju terwujudnya peternakan modern, tangguh dan efisien.</string>
+    <string name="misi_ternak">Menyelenggarakan pendidikan, penelitian terapan dan pengabdian kepada masyarakat dalam men-dayagunakan keunggulan sumberdaya peternakan wilayah melalui penerapan teknologi tepat guna.</string>
+    //Ekbis//
+    <string name="desEkbis">Ekonomi dan Bisnis adalah jurusan yang menyelenggarakan pendidikan vokasi, penelitian dan pengabdian pada masyarakat di bidang Agribisnis, akuntansi, perpajakan, informatika dan pariwisata.</string>
+    <string name="visi_ekbis">Penghasil tenaga profesional dan berkompeten di bidang agribisnis, akuntansi, perpajakan, informatika dan pariwisata yang dapat bersaing di era globalisasi.</string>
+    <string name="misi_ekbis1">1. Menyelenggarakan pendidikan berbasis kompetensi dan memberdayakan kegiatan penelitian dan pengabdian yang mendukung pengembangan industri/ukm.</string>
+    <string name="misi_ekbis2">2. Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan kompetitif.</string>
+    <string name="misi_ekbis3">3. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran di bidang agribisnis, akuntansi, perpajakan, informatika dan pariwisata.</string>
+    <string name="misi_ekbis4">4. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan di bidang agribisnis, akuntansi, perpajakan, informatika dan pariwisata.</string>
+    <string name="misi_ekbis5">5. Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter dan beretika.</string>
+    <string name="misi_ekbis6">6. Menjalin kerjasama secara berkelanjutan dengan pihak yang berhubungan dengan agribisnis, akuntansi, perpajakan, informatika dan pariwisata.</string>
+
+   //Produksi Tanaman Pangan//
+    <string name="desPTP1">Prodi D3 PTP Politeknik Pertanian Negeri merupakan program yang digagas oleh pemerintah dalam rangka mendukung program ketahanan, sebagai penghasil tenaga terampil, inovatif, dan profesional “upper middle level” dalam bidang produksi tanaman pangan.</string>
+    <string name="desPTP2">Program Studi D3 Produksi Tanaman Pangan (Prodi D3 PTP) berada di bawah Jurusan Budidaya Tanaman Pangan yang merupakan salah satu dari lima jurusan yang dikelola oleh Politeknik Negeri Lampung. Keberadaan Prodi D3 PTP bersamaan dengan  berdirinya Politeknik Pertanian Universitas Lampung tanggal 7 April 1984  (SK Dirjen Dikti nomor: 14/DIKTI/KEP/1984).</string>
+    <string name="visi_PTP">“Menjadi program studi unggul penghasil tenaga kerja terampil, inovatif dan profesional pada bidang produksi tanaman pangan”.</string>
+    <string name="misi_PTP1">1. Menyelenggarakan program pendidikan diploma tiga pada bidangan produksi tanaman pangan untuk menghasilkan tenaga kerja yang terampil, inovatif, profesional dan berakhlak mulia</string>
+    <string name="misi_PTP2">2. Menyelenggarakan penelitian di bidang produksi tanaman pangan berkelanjutan</string>
+    <string name="misi_PTP3">3. Menyelenggarakan pengabdian kepada masyarakat di bidang tanaman pangan</string>
+    <string name="misi_PTP4">4. Menjalin kerjasama secara berkelanjutan dengan stakeholder di bidang tanaman pangan</string>
+    //Hortikultura//
+    //Teknologi Pembenihan//
+    <string name="visi_TP">Menjadi program keahlian terapan unggulan dalam menghasilkan tenaga Sarjana Terapan yang berintegritas tinggi, Inovatif, berjiwa wirausaha, dan berkompeten dalam kegiatan teknologi benih tanaman tropika.</string>
+    <string name="misi_TP1">1. Melaksanakan pendidikan vokasi yang mengacu pada kurikulum KKNI.</string>
+    <string name="misi_TP2">2. Melaksanakan penelitian terapan untuk menghasilkan teknologi di bidang perbenihan tanaman tropika.</string>
+    <string name="misi_TP3">3. Melaksanakan pengabdian kepada masyarakat dalam rangka alih teknologi untuk meningkatkan pengetahuan dan kesejahteraan masyarakat.</string>
+    <string name="misi_TP4">4. Membangun suasana akademik yang kondusif, serta sarana dan prasarana kegiatan proses belajar mengajar (PBM) yang relevan.</string>
+    <string name="misi_TP5">5. Membangun pusat pengkajian dan pengembangan teknologi perbenihan tanaman tropika (serealia, palawija, ubi-ubian, hortikultura, tanaman perkebuan, dan tanaman kehutanan).</string>
+    <string name="misi_TP6">6. Menyediakan sarana belajar dan alih teknologi bagi lulusan sekolah menengah umum dan kejuruan, serta pelaku bisnis, pelatihan bagi petani, pertukaran informasi dengan pelaku bisnis dan pemerintah.</string>
+    <string name="misi_TP7">7. Meningkatkan kerjasama dengan instansi pemerintah, BUMN, dan swasta di bidang perbenihan tanaman tropika.</string>
+    //Teknologi Produksi Tanaman Hortikultura//
+    <string name="desTPTH">Program Studi (Prodi) Teknologi Produksi Tanaman Hortikultura (TPTH) merupakan Program Studi S1 terapan yang berada di bawah Jurusan Tanaman Pangan, Politeknik Negeri Lampung. Nomenklatur dan jenjang Program Studi Teknologi Produksi Tanaman Hortikultura terdapat pada lampiran perubahan Permendikbud no. 154 tahun 2014 (lampiran 1.1), tentang Rumpun Ilmu Pengetahuan dan Teknologi serta Gelar Lulusan Perguruan Tinggi, yang kemudian diselaraskan oleh Kementerian Riset, Teknologi dan Pendidikan Tinggi Nomor: 0404/E3.2/2015 pada tanggal 2 Februari 2015. Pembukaaan Program Studi D4 TPTH berdasarkan SK Kemenristekdikti No. 410/KPT/I/2016 tanggal 14 September 2016.</string>
+
+    //Produksi Tanaman Perkebunan//
+    <string name="visiPTP">Menjadi pusat penghasil lulusan yang bermutu, inovatif, dan unggul pada bidang perkebunan</string>
+    <string name="misiPTP1">1. Menyelenggarakan pendidikan D3 Produksi Tanaman Perkebunan yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan kompetitif.</string>
+    <string name="misiPTP2">2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran bidang perkebunan.</string>
+    <string name="misiPTP3">3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan bidang perkebunan.</string>
+    <string name="misiPTP4">4. Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter serta beretika.</string>
+    <string name="misiPTP5">5. Melaksanakan kerjasama secara berkelanjutan dengan dunia industri dan masyarakat perkebunan.</string>
+    //Produksi dan Manajemen Industri Perkebunan//
+    <string name="desPMIP">Program Studi Produksi dan Manajemen Industri Perkebunan (PS PMIP) adalah program studi jenjang S1-Terapan yang didirikan pada tahun 2009 dengan ijin penyelenggaraan dengan SK Kemendiknas No: 969/D/T/2008 dan secara formal kuliah pertama dimulai pada tanggal 30 Agustus 2009. PS PMIP telah terakreditasi oleh BANPT dengan peringkat akreditasi “B”. PS PMIP merupakan salah satu program studi di bawah pengelolaan Jurusan Budidaya Tanaman Perkebunan, Politeknik Negeri Lampung. PS PMIP sebagai bagian dari Politeknik Negeri Lampung selalu berusaha menunjang kegiatan perekonomian Lampung yang berbasis industri pertanian. Dalam menjawab tantangan global, PS PMIP mempunyai komitmen untuk mengembangkan tenaga ahli terapan dengan basis agroindustri yang diperkuat oleh pengembangan kemampuan pengalaman industri pertanian dan jiwa kewirausahawan serta ditunjang dengan kurikulum berbasis kompetensi.</string>
+    <string name="visiPMIP">Menjadi program studi yang bermutu, inovatif, dan unggul dalam menghasilkan sumberdaya manusia dengan kompetensi produksi dan manajemen industri perkebunan yang dapat bersaing nasional</string>
+    <string name="misiPMIP1">1.	Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri, dan kompetitif berbasis produksi dan manajemen industri perkebunan.</string>
+    <string name="misiPMIP2">2.	Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran berbasis produksi dan manajemen industri perkebunan.</string>
+    <string name="misiPMIP3">3.	Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan pada bidang produksi dan manajemen industri perkebunan.</string>
+    <string name="misiPMIP4">4.	Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter, dan beretika.</string>
+    <string name="misiPMIP5">5.	Melaksanakan kerjasama bidang produksi dan manajemen industri perkebunandengan stakeholders. </string>
+    //Pengelolaan Perkebunan Kopi//
+
+    //TSLL//
+    <string name="desTSLL">Program Studi Teknik Sumberdaya Lahan dan Lingkungan (Prodi TSL) adalah program studi D3 vokasi yang mempelajari, mengembangkan dan mengaplikasikan interdisiplin ilmu geomatika, sumberdaya air dan lingkungan. Prodi TSL bertugas mengembangkan potensi peserta didik agar memiliki kompetensi pengetahuan, ketrampilan dan sikap yang sesuai dengan kebutuhan industri dan dunia kerja di bidang geomatika, keteknikan sumberdaya air dan lingkungan, serta menjadi manusia yang beriman dan bertakwa kepada Tuhan yang Maha Esa, berakhlak mulia, sehat, berilmu, cakap, kreatif, mandiri dan menjadi warga negara yang demokratis serta bertanggungjawab.</string>
+    <string name="visiTSLL">Menjadi Program Studi Yang Bermutu, Unggul dan Berkarya Inovatif Pada Bidang Keteknikan Sumberdaya Air dan Lingkungan</string>
+    <string name="misiTSLL1">1.	Mendidik peserta didik agar kompeten dan profesional di bidang geomatika, keteknikan sumberdaya air dan lingkungan sesuai dengan industri dan dunia kerja</string>
+    <string name="misiTSLL2">2.	Mengadakan penelitian dibidang geomatika, suberdaya air dan lingkungan untuk menghasilkan paket teknologi tepat guna bagi pengelolaan sumberdaya air dan lingkungan</string>
+    <string name="misiTSLL3">3.	Menyelenggarakan pengabdian masyarakat di bidang geomatika, sumberdaya air dan lingkungan</string>
+    <string name="misiTSLL4">4.	Menjalin kerjasama secara berkelanjutan dengan stakeholders dibidang geomatika, sumberdaya air dan lingkungan</string>
+    <string name="misiTSLL5">5.	Menyelenggarakan pengelolaan program studi yang akuntabel dan transparan berbasis teknologi informasi</string>
+    //Mekanisasi Pertanian//
+    <string name="visiM_pertanian">Pada Tahun 2020 Program Studi Mekanisasi Pertanian menjadi Program Studi bidang vokasi terbaik di Indonesia</string>
+    <string name="misiM_pertanian1">1. Menyelenggarakan Program Pendidikan vokasi dalam bidang Mekanisasi Pertanian berbasis kompetensi</string>
+    <string name="misiM_pertanian2">2. Melaksanakan penelitian terapan yang hasilnya langsung menyentuh para pengguna (industri)</string>
+    <string name="misiM_pertanian3">3. Melaksanakan pengabdian masyarakat dengan memberdayakan keunggulan sumberdaya pertanian wilayah melalui teknologi Mekanisasi Pertanian yang sesuai.</string>
+    //Tepa//
+    <string name="visitepa">Pada Tahun 2020 Program Studi Teknologi Pangan Menjadi Program Diploma Unggulan dan Sentra Pengembangan Produk Pangan di Wilayah Sumatra</string>
+    <string name="misitepa1">1.	Menyelenggarakan program diploma dalam bidang penanganan dan pengolahan pangan, quality control, dan wirausaha yang profesional dan kompetitif</string>
+    <string name="misitepa2">2.	Melaksanakan penelitian pengembangan produk pangan sesuai potensi daerah dalam menopang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat</string>
+    <string name="misitepa3">3.	Melaksanakan pengabdian kepada masyarakat dalam rangka mengembangkan potensi daerah melalui pengembangan diversifikasi produk olahan pangan atas dasar tanggung jawab sosial demi kepentingan masyarakat</string>
+    //Teknologi Rekayasa Kimia Industri//
+    <string name="visiTRKI">Menjadi program studi yang unggul dalam menghasilkan Process Engineer Industri Pertanian yang berkarakter dan Berkualitas.</string>
+    <string name="misiTRKI1">1.	Menyiapkan lulusan untuk menjadi tenaga kerja yang profesional dan beretika, dengan menjunjung tinggi nilai-nilai kejujuran dalam sikap dan perbuatan</string>
+    <string name="misiTRKI2">2.	Melaksanakan proses pendidikan vokasi Diploma IV dengan proses terencana dan terkontrol sehingga menghasilkan lulusan yang memiliki keterampilan dan kompetensi dan siap bersaing di industri kimia dan industri pertanian</string>
+    <string name="misiTRKI3">3.	Melatih peserta didik untuk terbiasa dalam kegiatan penelitian dan pengembangan ilmu dibidang rekayasa kimia industri dengan memanfaatkan sumber daya alam lokal baik bahan mentah maupun limbah hasil industri kimia dan pertanian</string>
+    //TRKJJ//
+    <string name="desTRKJ">Program Studi Diploma IV (Sarjana Terapan) Teknologi Rekayasa Konstruksi Jalan dan Jembatan (D4 TRKJJ) merupakan pogram studi yang mempelajari, mengembangkan, dan menerapkan ilmu pengetahuan teknik sipil (civil engineering) dengan konsentrasi teknologi rekayasa konstruksi Jalan dan Jembatan dalam rangka mendukung penyediaan Sumberdaya Manusia Unggul yang dibekali dengan kemampuan teknis, manajerial, kedisiplinan, dan akhlak mulia berbasis industri konstruksi.</string>
+    <string name="visiTRKJ">Menjadi Program Studi Vokasional Unggul dalam Menghasilkan Karya Inovatif Berwawasan Lingkungan di Bidang Konstruksi Jalan dan Jembatan Berbasis IPTEK dan Industri Konstruksi.</string>
+    <string name="misiTRKJ1">1.	Menyelenggarakan Pendidikan Vokasional Berorientasi pada Aplikasi IPTEK dan Menghasilkan Lulusan yang Terampil dan Profesional di Bidang Konstruksi Jalan dan Jembatan.</string>
+    <string name="misiTRKJ2">2.	Melaksanakan Penelitian Terapan di Bidang Konstruksi Jalan dan Jembatan Berbasis IPTEK dan Industri Konstruksi.</string>
+    <string name="misiTRKJ3">3.	Melaksanakan Pengabdian kepada Masyarakat Melalui Transfer IPTEK sebagai Solusi Permasalahan di Bidang Konstruksi Jalan dan Jembatan.</string>
+    <string name="misiTRKJ4">4.	Menyelenggarakan Kerjasama dengan Stakeholders dalam rangka Penguatan Kelembagaan secara Berkelanjutan dan Profesional.</string>
+    <string name="misiTRKJ5">5.	Menyelenggarakan Pengelolaan Program Studi yang Akuntabel dan Transparan Berbasis Teknologi Informasi.</string>
+    //Pengembangan Produk Agroindustri//
+    <string name="desPPA">Program Studi Pengembangan Produk Agroindustri merupakan salah satu program studi dengan level D4 (Sarjana Terapan) di Jurusan Teknologi Pertanian. Prodi ini memiliki kekhasan yaitu dibidang industri hilir, yang merupakan industri mengolah hasil pertanian menjadi bahan baku atau barang yang siap dikonsumsi atau merupakan industri pascapanen dan pengolahan hasil pertanian.</string>
+    <string name="visiPPA">Menjadi program studi yang bermutu, unggul dan inovatif dalam bidang pengembangan produk agroindustri hilir pengolahan melalui proses teknologi, produksi dan manajemen sebagai pusat pengembangan teknologi rekayasa ilmu terapan.</string>
+    <string name="misiPPA1">1. Menyelenggarakan pendidikan dalam bidang pengembangan produk agroindustri berbasis pada sistem penerapan dan pengembangan proses teknologi, produksi dan manajemen</string>
+    <string name="misiPPA2">2. Melaksanakan penelitian terapan dalam rangka mengembangkan potensi daerah dibidang Agroindustri pada pengembangan proses teknologi, produksi dan manajemen</string>
+    <string name="misiPPA3">3. Melaksanakan PKM dalam rangka mengembangkan potensi daerah pada pengembangan potensi daerah pada pengembangan proses teknologi, produksi dan menajamen agroindustri.</string>
+    //Pengelolaan Patiseri//
+    <string name="visipatiseri">Menjadi Penghasil Sumber Daya Manusia yang Profesional dan Memiliki Keunggulan Kompetitif dalam Bidang Patiseri yang Sesuai dengan Kebutuhan Industri</string>
+    <string name="misipatiseri1">1.	Menyelenggarakan program diploma dalam bidang patiseri dan wirausahawan yang profesional dan kompetitif.</string>
+    <string name="misipatiseri2">2.	Melaksanakan penelitian pengembangan produk patiseri dan transfer IPTEKS untuk peningkatan kualitas kehidupan masyarakat luas.</string>
+    <string name="misipatiseri3">3.	Melaksanakan pengabdian kepada masyarakat melalui pengembangan produk patiseri atas dasar tanggung jawab sosial demi kepentingan masyarakat.</string>
+
+    //Teknologi Produksi Ternak//
+    <string name="visiTPT">Menjadi Program Studi Vokasional yang Bermutu, Inovatif, Unggul dan Berdaya Saing Global dalam Bidang Teknologi Produksi Ternak.</string>
+    <string name="misiTPT1">1. Menyelenggarakan pendidikan program D4 berbasis penelitian terapan yang berorientasi pada akhlak mulia, disiplin, mandiri, dan kompetitif, serta terampil mengaplikasikan ilmu teknologi produksi ternak dalam pengembangan industri peternakan yang dilandasi jiwa kewirausahaan.</string>
+    <string name="misiTPT2">2. Menerapkan ilmu pengetahuan dan inovasi teknologi produksi ternak melalui penelitian terapan untuk menunjang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiTPT3">3. Meningkatkan pengabdian kepada masyarakat dalam mendayagunakan keunggulan sumberdaya peternakan wilayah melalui penerapan teknologi tepat guna atas dasar tanggung jawab sosial demi kepentingan masyarakat.</string>
+    <string name="misiTPT4">4. Menjalin kerjasama dengan stake holder dibidang peternakan yang berkelanjutan.</string>
+    <string name="misiTPT5">5. Menyelenggarakan kegiatan akademik yang sehat dengan manajemen yang transparan.</string>
+    //Teknologi Pembenihan Ikan//
+    <string name="desTPI">Program Studi Diploma IV (Sarjana Terapan) Teknologi Pembenihan Ikan merupakan salah satu program studi di lingkungan Politeknik Negeri Lampung. Program Studi Teknologi Pembenihan Ikan didirikan pada tahun 2017 dengan Surat Keputusan Mentri Riset, Teknologi, dan Pendidikan Tinggi Republik Indonesia Nomor 248/KPT/2017, tanggal 3 Mei 2017.</string>
+    <string name="visiTPI">Menjadi Program Studi Vokasional yang Bermutu, Inovatif, Unggul dan Berdaya Saing Global dalam Bidang Teknologi Pembenihan Ikan</string>
+    <string name="misiTPI1">1. Menyelenggarakan pendidikan vokasi yang berorientasi kepada ahlak mulia, terampil, disiplin, mandiri dan professional dalam bidang teknologi pembenihan ikan.</string>
+    <string name="misiTPI2">2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran dalam bidang teknologi pembenihan ikan</string>
+    <string name="misiTPI3">3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan di bidang teknologi pembenihan ikan</string>
+    <string name="misiTPI4">4. Membentuk peserta didik menjadi masyarakat yang produktif dan profesional, dengan wawasan wirausaha, tangguh dan mandiri, untuk menciptakan lapangan pekerja</string>
+    <string name="misiTPI5">5. Membuka, mengembangkan dan memperkuat kerjasama dengan industri perikanan yang ada termasuk instansi pemerintah dan masyarakat perikanan</string>
+    //Produksi Ternak//
+    <string name="visiP_ternak">Menjadi program studi vokasional yang bermutu, inovatif, berdaya saing global dan unggul dalam bidang Produksi Ternak</string>
+    <string name="misiP_ternak1">1.	Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri dan kompetitif</string>
+    <string name="misiP_ternak2">2.	Melaksanakan penelitian terapan bidang petenakan untuk menunjang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiP_ternak3">3.	Meningkatkan pengabdian kepada masyarakat dalam mendayagunakan keunggulan sumberdaya peternakan wilayah melalui penerapan teknologi tepat guna atas dasar tanggung jawab sosial demi kepentingan masyarakat.</string>
+    <string name="misiP_ternak4">4.	Menjalin kerjasama yang berkualitas dan berkelanjutan dengan stake holder dibidang peternakan.</string>
+    <string name="misiP_ternak5">5.	Menyelenggarakan kegiatan akademik yang sehat dengan manajemen yang transparan</string>
+    //Budidaya Perikanan//
+    <string name="visiB_perikanan">Menjadi Program Studi Vokasional yang bermutu, Inovatif, Unggul dan berdaya saing Global dalam Bidang Pengembangan Teknologi Terapan Budidaya Perikanan</string>
+    <string name="misiB_perikanan1">1. Menyelenggarakan pendidikan vokasional yang berorientasi kepada ahlak mulia, terampil, disiplin, mandiri dan profesional dalam bidang budidaya perikanan</string>
+    <string name="misiB_perikanan2">2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran dalam bidang budidaya perikanan</string>
+    <string name="misiB_perikanan3">3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan dalam bidang budidaya perikanan</string>
+    <string name="misiB_perikanan4">4. Meningkatkan budidaya akademik, organisasi, dan kerja yang berkarakter dan beretika</string>
+    <string name="misiB_perikanan5">5. Menjalin kerjasama kemitraan dengan stakeholder bidang budidaya perikanan</string>
+    //Perikanan Tangkap//
+    <string name="desP_tangkap1">Program Studi Perikanan Tangkap adalah salah satu prodi yang ada di POLINELA, dengan SK Dir Jen PT No.284/KPT/I/2017, tanggal 3 Mei 2017.  Faktor melatarbelakangi pendirian Program Studi Perikanan Tangkap adalah Potensi laut Indonesia mencapai 70% dari total wilayah Indonesia dan sangat berpotensi untuk dieksploitasi hasil lautnya demi meningkatkan kesejahteraan masyarakat Indonesia bahkan dunia. Provinsi Lampung memiliki potensi Sumber Daya Perikanan yang cukup besar (Luas lautan 24820 km, 41,2 % lebih luas dari daratan) Jumlah produksi perikanan tangkap 157.698 ton dari potensi perikanan tangkap Lampung sebesar 338,000 ton/tahun. Provinsi Lampung memiliki 12 SMK Perikanan, 404 SMK dan 796 SMA.</string>
+    <string name="desP_tangkap2">Berdasarkan hal tersebut peranan institusi pendidikan sebagai penghasil SDM yang siap menghasilkan tenaga di bidang perikanan tangkap memberi kontribusi yang sangat tinggi. Sehingga pemanfaatan hasil laut Nusantara dan Dunia akan berada di tangan manusia yang bertanggung jawab dengan tetap menjaga kelestarian perikanan yang berkelanjutan.</string>
+    <string name="visiP_tangkap">Menjadi Program studi yang bermutu, inovatif dan Unggul dalam Ilmu Pengetahuan dan Teknologi Di Bidang Perikanan Tangkap.</string>
+    <string name="misiP_tangkap">1.	Menyelenggarakan Pendidikan pada Program Studi Perikanan Tangkap yang bertanggung jawab dan berwawasan lingkungan, Mengembangkan Kualitas pengajaran sesuai perkembangan, Meningkatkan kualitas dan kuantitas aplikasi IPTEK, Melaksanakan Penelitian terapan dan pengabdian guna meningkatkan kualitas kehidupan masyarakat, Menjalin kerjasama secara berkelanjutan dengan stakeholder.</string>
+
+    //Administrasi Perpajakan//
+    <string name="des_adm_perpajakan">Program Studi D2 Administrasi Perpajakkan yaitu mampu menghasilkan lulusan yang terampil, kompeten dalam Menyusun laporan pajak sesuai dengan peraturan dan ketentuan perpajakan serta mampu menyelesaikan masalah administrasi perpajakkan.</string>
+    <string name="keunggulan1">1. Memiliki karakter dalam bidang keahlian Administrasi Perpajakan</string>
+    <string name="keunggulan2">2. Program studi D2 Administrasi Perpajakan Jalur Cepat menjalin Kerjasama dengan beberapa bidang ilmu yang berkaitan dalam satu rumpun</string>
+    <string name="keunggulan3">3. Program studi D2 Administrasi Perpajakan Jalur Cepat menjalin Kerjasama dengan berbagai pihak dari dunia usaha dan dunia industri dan Kerjasama dengan pihak SMK (Sekolah Menengah Kejuruan).</string>
+    <string name="keunggulan4">4. Program studi D2 Administrasi Perpajakan Jalur Cepat mempunyai bidang fokus dalam keahlian komputerisasi dan Administrasi</string>
+    //MI//
+    <string name="desMi">Program Studi (PS) Manajemen Informatika merupakan salah satu program studi jenjang Diploma Tiga (DIII) di bawah jurusan Ekonomi dan Bisnis Politeknik Negeri Lampung (Polineleka). Program Studi D3 Manajemen Informatika didirikan dan mulai beroperasi menyelenggarakan kegiatan akademik dan tridarma perguruan tinggi sejak tahun 2006, berdasarkan Surat Keputusan Dirjen Dikti nomor 2691/D/T/2006. </string>
+    <string name="desM2">Sejak berdiri hingga saat ini, Program Studi D3 Manajemen Informatika telah banyak mengalami perkembangan, pada periode ke 3 akreditasi program studi manajemen informatika mendapatkan akreditasi B berdasarkan surat keputusan BAN-PT No. 415/SK/BAN-PT/Akred/Dpl-III/X/2014. Dan pada periode akreditas ke 4 saat ini program studi manajemen informatika mendapatkan akreditasi B kembali, berdasarkan surat keputusan BAN-PT No.2949/SK/BAN-PT/Ak-PPJ/Dipl-III/V/2020 Tahun 2020, dengan masa berlaku dari 2025-05-05. Selain akreditasi peningkatan lainnya adalah jumlah dan kualitas tenaga pendidik dan kependidikan, fasilitas, sarana prasarana, dan kepercayaan masyarakat (umum dan pengguna lulusan) terhadap lulusan (alumni) terus meningkat. Lulusan program studi D3 Manajemen Informatika telah mampu berkiprah di dunia kerja sebagai tenaga profesional dibidang teknologi informasi (TI) baik di instansi pemerintah/swasta, IT talent, wirausaha.</string>
+    <string name="visiMI1">1. Tahun 2025 menjadi program studi yang menghasilkan sumber daya manusia bermutu, inovatif dan berdaya bersaing dalam ilmu pengetahuan dan teknologi terapan bidang sistem informasi.</string>
+    <string name="misiMI1">1. Menyelenggarakan pendidikan vokasi di bidang informatika yang berorientasi pada akhlak mulia, terampil, inovatif, disiplin, mandiri dan berdaya saing.</string>
+    <string name="misiMI2">2. Melaksanakan penelitian terapan di bidang informatika untuk meningkatkan kualitas kehidupan masyarakat.</string>
+    <string name="misiMI3">3. Melaksanakan pengabdian kepada masyarakat atas dasar tanggung jawab sosial demi kepentingan masyarakat.</string>
+    <string name="misiMI4">4. Menjalin kerja sama berkelanjutan dengan pemangku kepentingan dalam rangka peningkatan kualitas tridharma perguruan tinggi.</string>
+    <string name="misiMI5">5. Mengembangkan tata kelola organisasi yang sehat dengan manajemen transparan.</string>
+    //Perjalanan Wisata//
+    <string name="visiPW1">1. Menjadi Program Studi penghasil sumber daya manusia profesional yang berintegritas, kreatif dan kompetitif di bidang Perjalanan Wisata.</string>
+    <string name="misiPW1">1. Menyelenggarakan program pendidikan Perjalanan Wisata jenjang D3 dengan kurikulum yang mengacu pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa.</string>
+    <string name="misiPW2">2. Menyiapkan tenaga profesional dan wirausahawan bidang pariwisata yang berdaya saing nasional dan global.</string>
+    <string name="misiPW3">3. Menyelenggarakan penelitian di bidang pariwisata sesuai perkembangan ilmu pengetahuan dan teknologi.</string>
+    <string name="misiPW4">4. Menyelenggarakan pengabdian kepada masyarakat untuk mengembangkan pariwisata sesuai budaya dan kearifan lokal.</string>
+    <string name="misipw5">5. Menjalin kerjasama secara berkelanjutan dengan pemangku kepentingan di bidang pariwisata.</string>
+    //Agribisnis Pangan//
+    <string name="visiA_pangan1">Menjadi Program Studi yang bermutu, inovatif, dan unggul dalam bidang Ipteks Terapan bidang agribisnis pangan.</string>
+    <string name="misiA_pangan1">1.	Menyelenggarakan pendidikan tinggi vokasi bidang agribisnis pangan yang berkarakter dan berdaya saing.</string>
+    <string name="misiA_pangan2">2.	Melaksanakan penelitian bidang agribisnis pangan untuk mendukung pendidikan dan transfer IPTEKS.</string>
+    <string name="misiA_pangan3">3.	Melaksanakan PKM guna mendorong, memotivasi, serta membantu meningkatkan perbaikan kehidupan masyarakat.</string>
+    <string name="misiA_pangan4">4.	Menjalin kerja sama secara berkelanjutan dengan stakeholders.</string>
+    //Akutansi Perpajakan//
+    <string name="desA_perpajakan1">Program Studi D4 Akuntansi Perpajakan Politeknik Negeri Lampung ijin pendiriannya sesuai dengan SK Menteri Riset, Teknologi, dan Pendidikan Tinggi RI No. 341/KPT/I/2016 tertanggal 13 September 2016.  Program Studi (D4) Akuntansi Perpajakan sampai didirikan memenuhi kebutuhan SDM berkualitas bidang akuntansi Perpajakan. Posisi bidang ilmu akuntansi perpajakan sangat sentral dalam pengembangan industri di Indonesia.  Perspektif bidang ilmu akuntansi perpajakan menjadi orientasi baru dalam memecahkan persoalan masyarakat dalam konsepsi secara integral.</string>
+    <string name="desA_perpajakan2">Program Studi D4 Akuntansi Perpajakan mempersiapkan mahasiswa untuk menjadi teknisi akuntansi ahli perpajakan yang menguasai pengetahuan dan keterampilan dibidang akuntansi dan dibidang perpajakan secara mendalam atas suatu entitas multinasional yang didukung kemampuan bekerjasama dan berkomunikasi secara efektif, dan bertanggungjawab terhadap pencapaian hasil kerja mandiri maupun organisasi dalam lingkup tanggung jawabnya.</string>
+    <string name="visiA_perpajakan1">Menjadi Program Studi Pendidikan Vokasi penghasil sumber daya manusia profesional yang berintegritas dan berdaya saing kompetitif di bidang Akuntansi dan Perpajakan.</string>
+    <string name="misiA_perpajakan1">1.	Menyelenggarakan program pendidikan akuntansi perpajakan jenjang D4 dengan kurikulum yang mengacu pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa.</string>
+    <string name="misiA_perpajakan2">2.	Menyelenggarakan penelitian terapan di bidang akuntansi perpajakan sesuai perkembangan ilmu pengetahuan dan teknologi.</string>
+    <string name="misiA_perpajakan3">3.	Menyelenggarakan pengabdian kepada masyarakat untuk membantu peningkatan kesejahteraan masyarakat dalam menunjang pembangunan nasional.</string>
+    <string name="misiA_perpajakan4">4.	Menjalin kerjasama secara berkelanjutan dengan stakeholder.</string>
+    //Akutansi Bisnis Digital//
+    <string name="visiABD">Menjadi program studi vokasi yang bermutu, inovatif, dan unggul dalam ilmu pengetahuan dan teknologi terapan bidang ilmu akuntansi.</string>
+    <string name="misiABD1">1. Menyelenggarakan program pendidikan akuntansi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri.</string>
+    <string name="misiABD2">2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan.</string>
+    <string name="misiABD3">3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi.</string>
+    <string name="misiABD4">4. Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter.</string>
+    <string name="misiABD5">5. Menjalin kerjasama secara berkelanjutan dengan pihak.</string>
+    //Pengelolaan Perhotelan//
+    <string name="visihotel">Menjadi program studi unggulan penghasil sumber daya manusia yang unggul, terampil, cekatan, dan berdaya saing tinggi dalam industri perhotelan yang berskala nasional dan internasional.</string>
+    <string name="misihotel1">1. Menyelenggarakan pendidikan dan pelatihan sesuai dengan kurikulum yang memiliki basis kompetensi pada industri perhotelan</string>
+    <string name="misihotel2">2. Melibatkan sektor industri perhotelan terkait dalam proses pengajaran praktik.</string>
+    <string name="misihotel3">3. Menyediakan sarana laboratorium dalam kampus untuk menunjang praktikum mahasiswa</string>
+    <string name="misihotel4">4. Menjalin kerjasama dengan asosiasi profesi dan pemangku kepentingan dalam sektor perhotelan baik di dalam negeri atau diluar negeri.</string>
+    //Teknologi Rekayasa Internet//
+    //Pengelolaan Agribisnis//
+    <string name="visiP_Agri1">1. Terintegrasi diartikan sebagai sebuah sistem agribisnis yang diintegrasikan antara praktik produksi tanaman, ikan, dan hewan menggunakan prinsip ekologi dan sosial ekonomi.</string>
+    <string name="visiP_Agri2">2. Berkarakter kewirausahaan diartikan memiliki ciri khas seorang wirausaha/entrepreneur yaitu jujur, berintegritas, melaksanakan etika bisnis, dan mampu membuat lapangan kerja.</string>
+    <string name="visiP_Agri3">3. Unggul diartikan mempunyai kemampuan lebih di bidang Pengelolaan Agribisnis (Agribusiness Management) dan memiliki hasil akreditasi A.</string>
+    <string name="misiiP_Agri1">1. Mewujudkan pendidikan vokasi bidang Pengelolaan Agribisnis (Agribusiness Management) yang berkelanjutan, berorientasi kepada integritas, kejujuran, terampil, disiplin, dan mandiri.</string>
+    <string name="misiiP_Agri2">2. Mewujudkan penelitian terapan dan pengabdian masyarakat dalam bidang Pengelolaan Agribisnis (Agribusiness Management) yang berkelanjutan guna meningkatkan kualitas sumberdaya manusia dan perbaikan kehidupan sosial ekonomi masyarakat.</string>
+    <string name="misiiP_Agri3">3. Membentuk peserta didik menjadi masyarakat ilmiah yang produktif, kritis, kreatif dan inovatif, serta berorientasi wirausaha untuk menciptakan lapangan pekerjaan.</string>
+    <string name="misiiP_Agri4">4. Membuka, mengembangkan, dan memperkuat kerjasama dengan dunia usaha-dunia industri, instansi pemerintah, dan masyarakat pertanian menuju SDG (Sustainable Development Goals).</string>
+
+
+</resources>

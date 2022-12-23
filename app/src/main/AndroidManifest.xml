@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.wonderfullpolinela">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_polinela"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/splashscreen"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WonderfullPolinela">
+        <activity
+            android:name=".PengelolaanAgribisnis"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity"/>
+        <activity
+            android:name=".TRIActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".PerhotelanActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".ABGActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".pajakActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".AGBPActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".PWActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".MIActivity"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".Admperpajakan"
+            android:exported="false"
+            android:parentActivityName=".EkbisActivity" />
+        <activity
+            android:name=".PerikanantangkapActivity"
+            android:exported="false"
+            android:parentActivityName=".TernakActivity" />
+        <activity
+            android:name=".BudidayaperikananActivity"
+            android:exported="false"
+            android:parentActivityName=".TernakActivity" />
+        <activity
+            android:name=".ProduksiternakActivity"
+            android:exported="false"
+            android:parentActivityName=".TernakActivity" />
+        <activity
+            android:name=".TPikanActivity"
+            android:exported="false"
+            android:parentActivityName=".TernakActivity" />
+        <activity
+            android:name=".TPternakActivity"
+            android:exported="false"
+            android:parentActivityName=".TernakActivity" />
+        <activity
+            android:name=".PatiseriActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".ProdukagroindustriActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".TRKJJActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".TeknologirekayasakimiaindustriActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".TeknologiPanganActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".MekanisasiPertanianActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".SumberdayalahandanlingkunganActivity"
+            android:exported="false"
+            android:parentActivityName=".TektanActivity" />
+        <activity
+            android:name=".KopiActivity"
+            android:exported="false"
+            android:parentActivityName=".KebunActivity" />
+        <activity
+            android:name=".PmipActivity"
+            android:exported="false"
+            android:parentActivityName=".KebunActivity" />
+        <activity
+            android:name=".ProduksiTPActivity"
+            android:exported="false"
+            android:parentActivityName=".KebunActivity" />
+        <activity
+            android:name=".TPTHActivity"
+            android:exported="false"
+            android:parentActivityName=".PanganActivity" />
+        <activity
+            android:name=".PerbenihanActivity"
+            android:exported="false"
+            android:parentActivityName=".PanganActivity" />
+        <activity
+            android:name=".HortikulturaActivity"
+            android:exported="false"
+            android:parentActivityName=".PanganActivity" />
+        <activity
+            android:name=".PtpActivity"
+            android:exported="false"
+            android:parentActivityName=".PanganActivity" />
+        <activity
+            android:name=".EkbisActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TernakActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TektanActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".PanganActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Splash"
+            android:exported="true" />
+        <activity
+            android:name=".KebunActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
